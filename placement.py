@@ -8,11 +8,11 @@ import streamlit as st
 
 
 # =========================================================
-# CAMPUSCONNECT - COLLEGE PLACEMENT MANAGEMENT SYSTEM
+# PLACEMATE - COLLEGE PLACEMENT MANAGEMENT SYSTEM
 # =========================================================
 
 st.set_page_config(
-    page_title="CampusConnect | Placement Portal",
+    page_title="PLACEMATE | Placement Portal",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded",
